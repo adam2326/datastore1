@@ -1,0 +1,8 @@
+indexes:
+- kind: Employee
+  ancestor: no
+  properties:
+  - name: fname
+  - name: lname
+  - name: employee_creation_date
+    direction: desc
